@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.2.0]
+### Uncategorized
+- move this to the conventional location
+- Update scripts/update-major-version-tag.sh
+- Add step to "Update shorthand major version tag"
+- Use SHA instead of tag for action consumption ([#21](https://github.com/legobeat/action-npm-publish/pull/21))
+- 2.1.0 ([#18](https://github.com/legobeat/action-npm-publish/pull/18))
+- Add release workflows ([#15](https://github.com/legobeat/action-npm-publish/pull/15))
+
 ## [2.1.0]
 ### Added
 - Add support for Slack notification when release is pending approval ([#9](https://github.com/MetaMask/action-npm-publish/pull/9))
@@ -29,9 +38,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initial release ([#1](https://github.com/MetaMask/action-npm-publish/pull/1))
 
-[Unreleased]: https://github.com/MetaMask/action-npm-publish/compare/v2.1.0...HEAD
-[2.1.0]: https://github.com/MetaMask/action-npm-publish/compare/v2.0.0...v2.1.0
-[2.0.0]: https://github.com/MetaMask/action-npm-publish/compare/v1.2.0...v2.0.0
-[1.2.0]: https://github.com/MetaMask/action-npm-publish/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/MetaMask/action-npm-publish/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/MetaMask/action-npm-publish/releases/tag/v1.0.0
+[Unreleased]: https://github.com/legobeat/action-npm-publish/compare/v2.2.0...HEAD
+[2.2.0]: https://github.com/legobeat/action-npm-publish/compare/v2.1.0...v2.2.0
+[2.1.0]: https://github.com/legobeat/action-npm-publish/compare/v2.0.0...v2.1.0
+[2.0.0]: https://github.com/legobeat/action-npm-publish/compare/v1.2.0...v2.0.0
+[1.2.0]: https://github.com/legobeat/action-npm-publish/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/legobeat/action-npm-publish/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/legobeat/action-npm-publish/releases/tag/v1.0.0
