@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.0]
+### Uncategorized
+- say "hello"
+
 ## [2.2.0]
 ### Uncategorized
 - move this to the conventional location
@@ -38,7 +42,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initial release ([#1](https://github.com/MetaMask/action-npm-publish/pull/1))
 
-[Unreleased]: https://github.com/legobeat/action-npm-publish/compare/v2.2.0...HEAD
+[Unreleased]: https://github.com/legobeat/action-npm-publish/compare/v2.3.0...HEAD
+[2.3.0]: https://github.com/legobeat/action-npm-publish/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/legobeat/action-npm-publish/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/legobeat/action-npm-publish/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/legobeat/action-npm-publish/compare/v1.2.0...v2.0.0
