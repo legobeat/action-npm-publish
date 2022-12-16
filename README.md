@@ -1,5 +1,6 @@
 # action-npm-publish
 
+Say hello. "Hello".
 This is a GitHub action that handles publishing to NPM for a project that represents a single package (in the case of a polyrepo) or a collection of packages (in the case of a monorepo).
 
 - For a polyrepo project, the action will publish the package using its current version as per `package.json`.
@@ -52,4 +53,4 @@ You can optionally send deployment announcements to Slack by providing a `slack-
 
 - **`npm-token`** _(optional)_. The auth token associated with the registry that Yarn commands will use to access and publish packages. If omitted, the action will perform a dry-run publish.
 
-- **`slack-webhook-url`** _(optional)_. The incoming webhook URL associated with your Slack application for announcing releases to a Slack channel. This can be added under the "Incoming Webhooks" section of your Slack app configuration. 
+- **`slack-webhook-url`** _(optional)_. The incoming webhook URL associated with your Slack application for announcing releases to a Slack channel. This can be added under the "Incoming Webhooks" section of your Slack app configuration.
